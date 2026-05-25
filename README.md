@@ -2,8 +2,6 @@
 
 A lightweight, single-file browser-based video editor for Windows.
 
-![FluxEdit](aaaa.png)
-
 ## Features
 
 - **Timeline editing** — drag, trim, and arrange video, image, audio, and text clips on a multi-track timeline
