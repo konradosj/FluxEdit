@@ -23,7 +23,7 @@ A lightweight, single-file browser-based video editor for Windows.
 
 ## Installation
 
-Download `FluxEdit_Setup.exe` from the [Releases](../../releases) page and run it. The installer requires no admin rights and installs to your user profile.
+Download `FluxEdit_Setup.exe` from the [Releases](../../releases) page and run it.
 
 A desktop shortcut is created automatically. Double-click it to launch.
 
